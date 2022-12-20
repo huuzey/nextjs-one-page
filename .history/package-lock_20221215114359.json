@@ -8,7 +8,7 @@
       "name": "land",
       "version": "0.1.0",
       "dependencies": {
-        "aos": "^2.3.4 ",
+        "aos": "^2.3.4",
         "eslint": "8.29.0",
         "eslint-config-next": "13.0.6",
         "next": "13.0.6",

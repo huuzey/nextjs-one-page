@@ -26,7 +26,7 @@ const Business = () => {
         <p className="max-w-[370px] mt-5">
           with the right credit card, you can improve your financial life by
           building credit, earning rewards and saving money . But with hundrends
-          of cards on the market .
+          of cards on the market.
         </p>
         <div className="mt-5">
           <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 py-2 rounded-lg  hover:from-pink-500 hover:to-yellow-500 px-4">

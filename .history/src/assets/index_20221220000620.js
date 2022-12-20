@@ -10,6 +10,7 @@ import send from "./Sd.png";
 import star from "./Sr.png";
 import menu from "./mn.png";
 import close from "./clos.png";
+import google from "./google.jpg";
 import apple from "./appl.png";
 import arrowUp from "./arrowup.png";
 import discount from "./Disc.jpg";
@@ -35,11 +36,13 @@ export {
   coinbase,
   dropbox,
   logo,
+  quotes,
   robot,
   send,
   star,
   menu,
   close,
+  google,
   apple,
   arrowUp,
   discount,

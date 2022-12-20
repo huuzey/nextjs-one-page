@@ -2,7 +2,7 @@ import Image from "next/image";
 import React, { useEffect } from "react";
 import { bill, googleplay, appstore } from "../src/assets";
 import AOS from "aos";
-import "aos/dist/aos.css" ;
+import "aos/dist/aos.css";
 
 const Billing = () => {
   useEffect(() => {

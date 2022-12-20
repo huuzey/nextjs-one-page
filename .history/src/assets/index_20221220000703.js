@@ -40,6 +40,7 @@ export {
   star,
   menu,
   close,
+  google,
   apple,
   arrowUp,
   discount,
